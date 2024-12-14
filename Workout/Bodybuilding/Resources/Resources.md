@@ -4,7 +4,7 @@ tags:
   - resources
 ---
 
-There are several types of resources for this topic:
+There are several resources for this topic:
 - [[Youtube Channels]]
 - [[Papers]]
 - 
